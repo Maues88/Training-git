@@ -1,2 +1,3 @@
-Write login
-Write key
+Write your login
+Write your key
+Write your age
